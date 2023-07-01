@@ -1,0 +1,27 @@
+.stats {
+  display: flex;
+}
+
+.stat {
+  width: 100px;
+  padding: 20px 10px;
+  background-color: #cae2ef;
+  border: 1px solid #b9ceda;
+}
+
+.label {
+  display: block;
+  text-align: center;
+  color: #a4a6a8;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.quantity {
+  color: #434242;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+}

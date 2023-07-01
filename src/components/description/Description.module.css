@@ -1,0 +1,33 @@
+.avatar {
+  border-radius: 50px;
+  background-color: #9abcf2;
+  margin-bottom: 30px;
+  width: 100px;
+  height: 100px;
+}
+
+.description {
+  max-width: 300px;
+  background-color: #fdfdfe;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.location {
+  color: #a4a6a8;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.name {
+  color: #434242;
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.tag {
+  color: #a4a6a8;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
